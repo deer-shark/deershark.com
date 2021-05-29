@@ -1,0 +1,13 @@
+AddHandler application/x-httpd-php73 .php
+
+RewriteEngine On
+
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+Options -Indexes
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
