@@ -10,9 +10,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'deershrak.com',
+    title: '鹿鯊工作室 DeerShark Technology Studio.',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'zh-tw'
     },
     meta: [
       { charset: 'utf-8' },
