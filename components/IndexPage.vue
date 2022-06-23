@@ -31,7 +31,7 @@
         DeerShark Technology Studio. 鹿鯊工作室
       </h3>
       <p class="text-slate-500 dark:text-slate-400 mt-2 text-sm">
-        deershark.tech@gmail.com
+        Contact us: deershark.tech@gmail.com
       </p>
     </div>
   </div>
